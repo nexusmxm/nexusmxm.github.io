@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.6);
     color: #2e7d32;
     padding: 1em 2em;
     border-bottom: 1px solid #a5d6a7;
@@ -50,7 +50,7 @@ header h1 {
 }
 
 nav {
-    background-color: rgba(129, 199, 132, 0.5); 
+    background-color: rgba(129, 199, 132, 0.6); 
     padding: 1em;
     max-width: 932px;
     margin: 2em auto;
@@ -75,7 +75,7 @@ nav a {
 }
 
 section {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.6);
     margin: 2em auto;
     padding: 2em;
     border-radius: 12px;
@@ -85,7 +85,7 @@ section {
 
 
 #map {
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.6);
     margin: 2em auto;
     padding: 2em;
     border-radius: 12px;
@@ -101,7 +101,7 @@ section {
 
 
 footer {
-    background-color: rgba(129, 199, 132, 0.5);   
+    background-color: rgba(129, 199, 132, 0.6);   
     color: white;
     padding: 1em;
     margin: 3em auto 2em auto;
@@ -189,7 +189,7 @@ section ul li {
     top: 0;
     width: 100vw;
     height: 100vh;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.6);
     justify-content: center;
     align-items: center;
 }
